@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/Users/sangwoo/Box/Indiana University/Classes/2018 Spring/CSCI-C212 (Intro to Software Systems)/.metadata/.plugins/org.eclipse.jdt.core
+1486850355.index

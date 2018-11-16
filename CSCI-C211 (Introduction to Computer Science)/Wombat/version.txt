@@ -1,8 +1,0 @@
-Wombat,3.258.14,lib/wombat-ide-3.258.14.jar
-Infonode Docking Windows,1.6.1,lib/idw-gpl.jar
-Petite Bindings,8.4.28,lib/petite-8.4.28.jar
-Petite (Linux),8.4,linux,lib/petite-8.4-linux.zip
-Petite (OS X),8.4,osx,lib/petite-8.4-osx.zip
-Petite (Windows),8.4,win,lib/petite-8.4-win.zip
-C211 Libraries,1.0.21,lib/c211-lib-1.0.21.zip
-Keyword List,8.4.8,lib/syntax.csv
